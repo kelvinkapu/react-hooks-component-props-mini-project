@@ -1,5 +1,7 @@
 import React from "react";
 import blogData from "../data/blog";
+// console.log(blogData);
+
 function Header(){
     //  console.log(props)
      return (
